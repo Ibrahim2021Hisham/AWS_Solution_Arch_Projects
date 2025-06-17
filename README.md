@@ -5,8 +5,9 @@ This **XYZ platform** is designed with a **highly available and scalable** archi
 
 ## 📌 Architecture Diagram
 **[View Architecture Diagram](https://drive.google.com/file/d/1IrJhLGzUFI2FBg18bZdhEfFqSRYkTKhI/view?usp=drivesdk)**  
+and this the whole picture for thr architecture 
+---![Solution_Arch](https://github.com/user-attachments/assets/c4dc16bc-8650-4288-9940-3061a711e8f0)
 
----
 
 ## 🏗 Infrastructure Design
 
